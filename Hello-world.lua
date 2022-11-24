@@ -1,1 +1,1 @@
-print("mia pika")
+print("m")
